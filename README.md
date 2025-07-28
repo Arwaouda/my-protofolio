@@ -114,8 +114,8 @@ GitHub Repo
 10 – Contact Me
 
 📧 Email: arwaouda@std.mans.edu.eg
-💼 LinkedIn: linkedin.com/in/arwaouda
-💻 GitHub: github.com/arwaouda
+💼 LinkedIn:https://www.linkedin.com/in/arwa-ouda-1b4b2b315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+💻 GitHub:https://github.com/Arwaouda/my-protofolio
 
 
 ---

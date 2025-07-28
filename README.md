@@ -21,8 +21,6 @@ I believe in continuous learning and making tech accessible for everyone.
 03 – Education
 
 Engineering Student at faculty of Engineering Mansoura University
-ث
-ب
 NTI Summer Internship – Python Technical Track
 July 2025 – NTI Training Center
 
